@@ -1,0 +1,7 @@
+com/pelatro/automation/practiceAutomation/utils/ConnectRemoteServer.class
+com/pelatro/automation/practiceAutomation/login/LoginPage.class
+com/pelatro/automation/practiceAutomation/utils/RemoteServerProperties.class
+com/pelatro/automation/practiceAutomation/utils/sshRemoteExampleUserInfo.class
+com/pelatro/automation/practiceAutomation/generic/Page.class
+com/pelatro/automation/practiceAutomation/utils/Assertion.class
+com/pelatro/automation/practiceAutomation/App.class

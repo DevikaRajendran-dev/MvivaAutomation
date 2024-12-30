@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Positive Login test","SUCCESS","2024-12-30T12:34:54.956+05:30[Asia/Kolkata]","0.0","5.79"
+"Login","Negative username test","SUCCESS","2024-12-30T12:35:00.748+05:30[Asia/Kolkata]","0.0","3.75"
+"Login","Negative password test","SUCCESS","2024-12-30T12:35:04.497+05:30[Asia/Kolkata]","0.0","3.99"
